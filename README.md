@@ -1,2 +1,3 @@
 # tinworks
-this will be my first repo
+
+Hi I make some changes in here
